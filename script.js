@@ -1,12 +1,14 @@
-document.addEventListener("DOMContentLoaded", function() {
-    let chapters = [];
+let chapters = [];
 
-    function loadCSV() {
+document.addEventListener("DOMContentLoaded", function() {
+    function loadCSV(seriesFile) {
         $.ajax({
-            url: 'big_bang_theory_episodes.csv',
+            url: seriesFile,
             dataType: 'text',
         }).done(function(data) {
             chapters = $.csv.toObjects(data);
+            const chapterDisplay = document.getElementById("chapter-display");
+            chapterDisplay.textContent = ""
         }).fail(function(jqXHR, textStatus, errorThrown) {
             console.error('Error al cargar el archivo CSV:', textStatus, errorThrown);
         });
@@ -23,6 +25,18 @@ document.addEventListener("DOMContentLoaded", function() {
         chapterDisplay.textContent = `Temporada ${randomChapter.season}, Episodio ${randomChapter.episode_num_in_season}: ${randomChapter.title}`;
     }
 
-    loadCSV();
+    function onSeriesChange() {
+        const seriesSelect = document.getElementById('series-select');
+        const selectedSeries = seriesSelect.value;
+        loadCSV(selectedSeries);
+ 
+    }
+
+    const seriesSelect = document.getElementById('series-select');
+    seriesSelect.addEventListener('change', onSeriesChange);
+
+    // Load the initially selected series
+    onSeriesChange();
+
     window.getRandomChapter = getRandomChapter;
 });

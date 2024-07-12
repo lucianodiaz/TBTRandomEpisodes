@@ -8,7 +8,14 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="title">The Big Bang Theory Random Chapter Selector</h1>
+        <h1 class="title">Random Chapter Selector</h1>
+        <label for="series-select">Choose a series:</label>
+        <select id="series-select">
+            <option value="big_bang_theory_episodes.csv">The Big Bang Theory</option>
+            <option value="simpsons_episodes.csv">The Simpsons</option>
+            <option value="family_guy_episodes.csv">Family guy</option>
+            <option value="futurama_episodes.csv">Futurama</option>
+        </select>
         <button class="button" onclick="getRandomChapter()">Seleccionar capítulo aleatorio</button>
         <p class="chapter" id="chapter-display"></p>
     </div>

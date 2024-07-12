@@ -1,0 +1,401 @@
+season,episode_num_in_season,title
+1,1,Death Has a Shadow
+1,2,I Never Met the Dead Man
+1,3,Chitty Chitty Death Bang
+1,4,Mind Over Murder
+1,5,A Hero Sits Next Door
+1,6,The Son Also Draws
+1,7,Brian: Portrait of a Dog
+2,1,"Peter, Peter, Caviar Eater"
+2,2,Holy Crap
+2,3,Da Boom
+2,4,Brian in Love
+2,5,Love Thy Trophy
+2,6,Death Is a Bitch
+2,7,The King Is Dead
+2,8,"I Am Peter, Hear Me Roar"
+2,9,"If I'm Dyin', I'm Lyin'"
+2,10,Running Mates
+2,11,"A Picture is Worth 1,000 Bucks"
+2,12,Fifteen Minutes of Shame
+2,13,Road to Rhode Island
+2,14,Let's Go to the Hop
+2,15,Dammit Janet
+2,16,There's Something About Paulie
+2,17,He's Too Sexy for His Fat
+2,18,E. Peterbus Unum
+2,19,The Story on Page One
+2,20,Wasted Talent
+2,21,"Fore, Father"
+3,1,The Thin White Line
+3,2,Brian Does Hollywood
+3,3,Mr. Griffin Goes to Washington
+3,4,"One If by Clam, Two If by Sea"
+3,5,And the Wiener Is...
+3,6,Death Lives
+3,7,Lethal Weapons
+3,8,The Kiss Seen Around the World
+3,9,Mr. Saturday Knight
+3,10,A Fish Out of Water
+3,11,Emission Impossible
+3,12,To Love and Die in Dixie
+3,13,Screwed the Pooch
+3,14,"Peter Griffin: Husband, Father... Brother?"
+3,15,"Ready, Willing, and Disabled"
+3,16,A Very Special Family Guy Freakin' Christmas
+3,17,Brian Wallows and Peter's Swallows
+3,18,From Method to Madness
+3,19,"Stuck Together, Torn Apart"
+3,20,Road to Europe
+3,21,Family Guy Viewer Mail #1
+3,22,When You Wish Upon a Weinstein
+4,1,North by North Quahog
+4,2,Fast Times at Buddy Cianci Jr. High
+4,3,Blind Ambition
+4,4,Don't Make Me Over
+4,5,The Cleveland–Loretta Quagmire
+4,6,Petarded
+4,7,Brian the Bachelor
+4,8,8 Simple Rules for Buying My Teenage Daughter
+4,9,Breaking Out Is Hard to Do
+4,10,Model Misbehavior
+4,11,Peter's Got Woods
+4,12,Perfect Castaway
+4,13,Jungle Love
+4,14,PTV
+4,15,Brian Goes Back to College
+4,16,The Courtship of Stewie's Father
+4,17,The Fat Guy Strangler
+4,18,"The Father, the Son, and the Holy Fonz"
+4,19,Brian Sings and Swings
+4,20,Patriot Games
+4,21,I Take Thee Quagmire
+4,22,Sibling Rivalry
+4,23,Deep Throats
+4,24,Peterotica
+4,25,You May Now Kiss the... Uh... Guy Who Receives
+4,26,Petergeist
+4,27,The Griffin Family History
+4,28,Stewie B. Goode (Part 1)[c]
+4,29,"Bango Was His Name, Oh! (Part 2)[c]"
+4,30,Stu and Stewie's Excellent Adventure (Part 3)[c]
+5,1,Stewie Loves Lois
+5,2,Mother Tucker
+5,3,Hell Comes to Quahog
+5,4,Saving Private Brian
+5,5,Whistle While Your Wife Works
+5,6,Prick Up Your Ears
+5,7,Chick Cancer
+5,8,Barely Legal
+5,9,Road to Rupert
+5,10,Peter's Two Dads
+5,11,The Tan Aquatic with Steve Zissou
+5,12,Airport '07
+5,13,Bill & Peter's Bogus Journey
+5,14,No Meals on Wheels
+5,15,Boys Do Cry
+5,16,No Chris Left Behind
+5,17,"It Takes a Village Idiot, and I Married One"
+5,18,Meet the Quagmires
+6,1,Blue Harvest
+6,2,Movin' Out (Brian's Song)
+6,3,"Believe It or Not, Joe's Walking on Air"
+6,4,Stewie Kills Lois (Part 1)
+6,5,Lois Kills Stewie (Part 2)
+6,6,Padre de Familia
+6,7,Peter's Daughter
+6,8,McStroke
+6,9,Back to the Woods
+6,10,"Play It Again, Brian"
+6,11,The Former Life of Brian
+6,12,Long John Peter
+7,1,"Love, Blactually"
+7,2,I Dream of Jesus
+7,3,Road to Germany
+7,4,Baby Not on Board
+7,5,The Man with Two Brians
+7,6,Tales of a Third Grade Nothing
+7,7,Ocean's Three and a Half
+7,8,Family Gay
+7,9,The Juice Is Loose
+7,10,Fox-y Lady
+7,11,Not All Dogs Go to Heaven
+7,12,420
+7,13,Stew-Roids
+7,14,"We Love You, Conrad"
+7,15,Three Kings
+7,16,Peter's Progress
+8,1,Road to the Multiverse
+8,2,Family Goy
+8,3,Spies Reminiscent of Us
+8,4,Brian's Got a Brand New Bag
+8,5,Hannah Banana
+8,6,Quagmire's Baby
+8,7,Jerome Is the New Black
+8,8,Dog Gone
+8,9,Business Guy
+8,10,Big Man on Hippocampus
+8,11,Dial Meg for Murder
+8,12,Extra Large Medium
+8,13,"Go, Stewie, Go!"
+8,14,Peter-assment
+8,15,Brian Griffin's House of Payne
+8,16,April in Quahog
+8,17,Brian & Stewie
+8,18,Quagmire's Dad
+8,19,The Splendid Source
+8,20,"Something, Something, Something, Dark Side"
+8,21,Partial Terms of Endearment
+9,1,And Then There Were Fewer
+9,2,Excellence in Broadcasting
+9,3,"Welcome Back, Carter"
+9,4,Halloween on Spooner Street
+9,5,"Baby, You Knock Me Out"
+9,6,Brian Writes a Bestseller
+9,7,Road to the North Pole
+9,8,New Kidney in Town
+9,9,And I'm Joyce Kinney
+9,10,Friends of Peter G.
+9,11,German Guy
+9,12,The Hand That Rocks the Wheelchair
+9,13,Trading Places
+9,14,Tiegs for Two
+9,15,Brothers & Sisters
+9,16,The Big Bang Theory
+9,17,Foreign Affairs
+9,18,It's a Trap!
+10,1,Lottery Fever
+10,2,Seahorse Seashell Party[f]
+10,3,Screams of Silence: The Story of Brenda Q
+10,4,Stewie Goes for a Drive
+10,5,Back to the Pilot
+10,6,Thanksgiving
+10,7,Amish Guy
+10,8,Cool Hand Peter
+10,9,Grumpy Old Man
+10,10,Meg and Quagmire
+10,11,The Blind Side
+10,12,Livin' on a Prayer
+10,13,Tom Tucker: The Man and His Dream
+10,14,Be Careful What You Fish For
+10,15,Burning Down the Bayit
+10,16,Killer Queen
+10,17,Forget-Me-Not
+10,18,"You Can't Do That on Television, Peter"
+10,19,Mr. and Mrs. Stewie
+10,20,Leggo My Meg-O
+10,21,Tea Peter
+10,22,Family Guy Viewer Mail #2
+10,23,Internal Affairs
+11,1,Into Fat Air
+11,2,Ratings Guy
+11,3,The Old Man and the Big 'C'
+11,4,Yug Ylimaf
+11,5,Joe's Revenge
+11,6,Lois Comes Out of Her Shell
+11,7,Friends Without Benefits
+11,8,"Jesus, Mary and Joseph!"
+11,9,Space Cadet
+11,10,Brian's Play
+11,11,The Giggity Wife
+11,12,Valentine's Day in Quahog
+11,13,Chris Cross
+11,14,Call Girl
+11,15,Turban Cowboy
+11,16,12 and a Half Angry Men
+11,17,Bigfat
+11,18,Total Recall
+11,19,Save the Clam
+11,20,Farmer Guy
+11,21,Roads to Vegas
+11,22,No Country Club for Old Men
+12,1,Finders Keepers
+12,2,Vestigial Peter
+12,3,Quagmire's Quagmire
+12,4,A Fistful of Meg
+12,5,Boopa-dee Bappa-dee
+12,6,Life of Brian
+12,7,Into Harmony's Way
+12,8,Christmas Guy
+12,9,Peter Problems
+12,10,Grimm Job
+12,11,Brian's a Bad Father
+12,12,Mom's the Word
+12,13,3 Acts of God
+12,14,Fresh Heir
+12,15,Secondhand Spoke
+12,16,Herpe the Love Sore
+12,17,The Most Interesting Man in the World
+12,18,Baby Got Black
+12,19,Meg Stinks!
+12,20,He's Bla-ack!
+12,21,Chap Stewie
+13,1,The Simpsons Guy
+13,2,The Book of Joe
+13,3,Baking Bad
+13,4,Brian the Closer
+13,5,Turkey Guys
+13,6,The 2000-Year-Old Virgin
+13,7,"Stewie, Chris, & Brian's Excellent Adventure"
+13,8,Our Idiot Brian
+13,9,This Little Piggy
+13,10,Quagmire's Mom
+13,11,Encyclopedia Griffin
+13,12,Stewie Is Enceinte
+13,13,Dr. C and the Women
+13,14,#JOLO
+13,15,Once Bitten
+13,16,Roasted Guy
+13,17,Fighting Irish
+13,18,Take My Wife
+14,1,Pilling Them Softly
+14,2,Papa Has a Rollin' Son
+14,3,"Guy, Robot"
+14,4,Peternormal Activity
+14,5,"Peter, Chris, & Brian"
+14,6,Peter's Sister
+14,7,Hot Pocket-Dial
+14,8,Brokeback Swanson
+14,9,A Shot in the Dark
+14,10,"Candy, Quahog Marshmallow"
+14,11,The Peanut Butter Kid
+14,12,Scammed Yankees
+14,13,An App a Day
+14,14,Underage Peter
+14,15,A Lot Going on Upstairs
+14,16,The Heartbreak Dog
+14,17,Take a Letter
+14,18,The New Adventures of Old Tom
+14,19,"Run, Chris, Run"
+14,20,Road to India
+15,1,The Boys in the Band
+15,2,Bookie of the Year
+15,3,American Gigg-olo
+15,4,Inside Family Guy
+15,5,"Chris Has Got a Date, Date, Date, Date, Date"
+15,6,Hot Shots
+15,7,High School English
+15,8,Carter and Tricia
+15,9,How the Griffin Stole Christmas
+15,10,Passenger Fatty-Seven
+15,11,Gronkowsbees
+15,12,Peter's Def Jam
+15,13,The Finer Strings
+15,14,The Dating Game
+15,15,Cop and a Half-wit
+15,16,Saturated Fat Guy
+15,17,Peter's Lost Youth
+15,18,The Peter Principal
+15,19,Dearly Deported
+15,20,A House Full of Peters
+16,1,Emmy-Winning Episode
+16,2,Foxx in the Men House
+16,3,Nanny Goats
+16,4,Follow the Money
+16,5,Three Directors
+16,6,The D in Apartment 23
+16,7,Petey IV
+16,8,Crimes and Meg's Demeanor
+16,9,Don't Be a Dickens at Christmas
+16,10,Boy (Dog) Meets Girl (Dog)
+16,11,Dog Bites Bear
+16,12,"Send in Stewie, Please"
+16,13,V Is for Mystery
+16,14,Veteran Guy
+16,15,The Woof of Wall Street
+16,16,Family Guy Through the Years
+16,17,Switch the Flip
+16,18,HTTPete
+16,19,The Unkindest Cut
+16,20,"Are You There God? It's Me, Peter"
+17,1,Married... with Cancer (Part 1)
+17,2,Dead Dog Walking (Part 2)
+17,3,Pal Stewie
+17,4,Big Trouble in Little Quahog
+17,5,Regarding Carter
+17,6,Stand by Meg
+17,7,The Griffin Winter Games
+17,8,Con Heiress
+17,9,Pawtucket Pete
+17,10,Hefty Shades of Gray (Part 1)
+17,11,Trump Guy (Part 2)
+17,12,"Bri, Robot"
+17,13,Trans-Fat
+17,14,Family Guy Lite
+17,15,"No Giggity, No Doubt"
+17,16,You Can't Handle the Booth!
+17,17,Island Adventure
+17,18,Throw It Away
+17,19,"Girl, Internetted"
+17,20,Adam West High
+18,1,Yacht Rocky
+18,2,Bri-Da
+18,3,Absolutely Babulous
+18,4,Disney's The Reboot
+18,5,Cat Fight
+18,6,Peter & Lois' Wedding
+18,7,Heart Burn
+18,8,Shanksgiving
+18,9,Christmas Is Coming
+18,10,Connie's Celica
+18,11,Short Cuts
+18,12,Undergrounded
+18,13,Rich Old Stewie
+18,14,The Movement
+18,15,Baby Stewie
+18,16,Start Me Up
+18,17,Coma Guy
+18,18,Better Off Meg
+18,19,Holly Bibble
+18,20,Movin' In (Principal Shepherd's Song)
+19,1,Stewie's First Word
+19,2,The Talented Mr. Stewie
+19,3,Boys & Squirrels
+19,4,Cutawayland
+19,5,La Famiglia Guy
+19,6,Meg's Wedding
+19,7,Wild Wild West
+19,8,Pawtucket Pat
+19,9,The First No L
+19,10,Fecal Matters
+19,11,Boy's Best Friend
+19,12,And Then There's Fraud
+19,13,Peterminator
+19,14,The Marrying Kind
+19,15,Customer of the Week
+19,16,Who's Brian Now?
+19,17,Young Parent Trap
+19,18,Meg Goes to College
+19,19,Family Cat
+19,20,Tales of Former Sports Glory
+20,1,LASIK Instinct
+20,2,Rock Hard
+20,3,Must Love Dogs
+20,4,80's Guy
+20,5,Brief Encounter
+20,6,Cootie & The Blowhard
+20,7,Peterschmidt Manor
+20,8,The Birthday Bootlegger
+20,9,The Fatman Always Rings Twice
+20,10,Christmas Crime
+20,11,Mister Act
+20,12,The Lois Quagmire
+20,13,Lawyer Guy
+20,14,HBO-No
+20,15,Hard Boiled Meg
+20,16,Prescription Heroine
+20,17,All About Alana
+20,18,"Girlfriend, Eh?"
+20,19,First Blood
+20,20,Jersey Bore
+21,1,Oscars Guy
+21,2,Bend or Blockbuster
+21,3,A Wife-Changing Experience
+21,4,The Munchurian Candidate
+21,5,Unzipped Code
+21,6,Happy Holo-ween
+21,7,The Stewaway
+21,8,Get Stewie
+21,9,Carny Knowledge
+21,10,The Candidate
+21,11,Love Story Guy
