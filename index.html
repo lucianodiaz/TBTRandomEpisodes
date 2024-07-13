@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Chapter Selector</title>
+    <title>Random Episode Selector</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1 class="title">Random Chapter Selector</h1>
+        <h1 class="title">Random Episode Selector</h1>
         <label for="series-select">Choose a series:</label>
         <select id="series-select">
             <option value="database/big_bang_theory_episodes.csv">The Big Bang Theory</option>
@@ -17,12 +17,13 @@
             <option value="database/futurama_episodes.csv">Futurama</option>
             <option value="database/breaking_bad_episodes.csv">Breaking Bad</option>
         </select>
-        <button class="button" onclick="getRandomChapter()">Seleccionar capítulo aleatorio</button>
+        <button class="button" onclick="getRandomChapter()">Give me a Random Episode</button>
         <p class="chapter" id="chapter-display"></p>
     </div>
     <link rel="manifest" href="/manifest.json">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery-csv@1.0.11/src/jquery.csv.min.js"></script>
+    <!-- <script src="cordova.js"></script> -->
     <script src="script.js"></script>
     <script>
         if ('serviceWorker' in navigator) {
@@ -34,5 +35,9 @@
                 });
         }
         </script>
+
+<footer>
+    <p>Author: Luciano Diaz</p>
+</footer>
 </body>
 </html>

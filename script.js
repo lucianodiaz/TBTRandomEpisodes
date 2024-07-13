@@ -16,13 +16,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
     function getRandomChapter() {
         if (chapters.length === 0) {
-            console.error('La lista de capítulos está vacía.');
+            console.error('Episode list is empty');
             return;
         }
         const randomIndex = Math.floor(Math.random() * chapters.length);
         const randomChapter = chapters[randomIndex];
         const chapterDisplay = document.getElementById("chapter-display");
-        chapterDisplay.textContent = `Temporada ${randomChapter.season}, Episodio ${randomChapter.episode_num_in_season}: ${randomChapter.title}`;
+        chapterDisplay.textContent = `Season ${randomChapter.season}, Episode ${randomChapter.episode_num_in_season}: ${randomChapter.title}`;
     }
 
     function onSeriesChange() {
