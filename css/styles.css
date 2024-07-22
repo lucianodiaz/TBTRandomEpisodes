@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background: #212529 !important;  
     margin: 0;
     padding: 0;
 }
@@ -15,17 +16,11 @@ body {
 .title {
     font-size: 24px;
     margin-bottom: 20px;
-}
-
-.button {
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    cursor: pointer;
+    text-align: center;
 }
 
 .chapter {
     font-size: 18px;
     margin-top: 20px;
+    text-align: center;
 }
