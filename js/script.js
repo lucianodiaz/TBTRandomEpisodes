@@ -32,11 +32,18 @@ document.addEventListener("DOMContentLoaded", function() {
  
     }
 
+    function updateSeriesImage() {
+        var select = document.getElementById("series-select");
+        var selectedOption = select.options[select.selectedIndex];
+        var imageUrl = selectedOption.getAttribute("data-image");
+        document.getElementById("series-image").src = imageUrl;
+    }
+
     const seriesSelect = document.getElementById('series-select');
     seriesSelect.addEventListener('change', onSeriesChange);
-
+    seriesSelect.addEventListener('change',updateSeriesImage);
     // Load the initially selected series
     onSeriesChange();
-
+    updateSeriesImage();
     window.getRandomChapter = getRandomChapter;
 });
